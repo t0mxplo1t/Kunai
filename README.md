@@ -1,3 +1,5 @@
+# Function
+Kunai is a tool that lets you find information about other people's Instagram accounts without requiring a login 
 # Tested on
 Termux
 # Installation
