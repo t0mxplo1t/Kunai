@@ -43,7 +43,7 @@ Commands
 ----
 `apt install git`
 
-`git clone https://github.com/14sept2002/Kunai.git`
+`git clone https://github.com/t0mxplo1t/Kunai.git`
 
 `cd Kunai`
 
