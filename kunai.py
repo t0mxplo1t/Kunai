@@ -8,7 +8,7 @@ def banner():
 	print("""
 \033[91m╦╔═╦ ╦╔╗╔╔═╗╦ \033[96m# \033[91mCoded by Mr. Tom
 \033[93m╠╩╗║ ║║║║╠═╣║ \033[96m# \033[93mversion 1.4
-\033[92m╩ ╩╚═╝╝╚╝╩ ╩╩ \033[96m# \033[92mhttps://github.com/14sept2002\033[0m
+\033[92m╩ ╩╚═╝╝╚╝╩ ╩╩ \033[96m# \033[92mhttps://github.com/t0mxpl01t\033[0m
 """)
 banner()
 
